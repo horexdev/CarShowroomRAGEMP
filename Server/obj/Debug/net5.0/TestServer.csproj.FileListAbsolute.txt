@@ -1,0 +1,17 @@
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\TestServer.deps.json
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\TestServer.dll
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\ref\TestServer.dll
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\TestServer.pdb
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\Bootstrapper.dll
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.csproj.AssemblyReference.cache
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.AssemblyInfoInputs.cache
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.AssemblyInfo.cs
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.csproj.CoreCompileInputs.cache
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.csproj.CopyComplete
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.dll
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\ref\TestServer.dll
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.pdb
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\TestServer.runtimeconfig.json
+F:\MSVisualStudioProjects\TestServer\TestServer\bin\Debug\net5.0\TestServer.runtimeconfig.dev.json
+F:\MSVisualStudioProjects\TestServer\TestServer\obj\Debug\net5.0\TestServer.genruntimeconfig.cache
